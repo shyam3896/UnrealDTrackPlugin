@@ -27,7 +27,8 @@
 #pragma once
 
 #include "IInputDevice.h"
-
+#include <iostream>
+#include <sstream>
 #include "LiveLinkTypes.h"
 
 
